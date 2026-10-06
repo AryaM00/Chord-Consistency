@@ -1,0 +1,11 @@
+{
+  "key": "hiten",
+  "value": "50",
+  "version": {
+    "0": 1,
+    "5": 2,
+    "39": 2
+  },
+  "type": "backup",
+  "primary_node_id": 0
+}

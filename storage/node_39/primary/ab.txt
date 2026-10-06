@@ -1,0 +1,8 @@
+{
+  "key": "ab",
+  "value": "28",
+  "version": {
+    "39": 1
+  },
+  "type": "primary"
+}
